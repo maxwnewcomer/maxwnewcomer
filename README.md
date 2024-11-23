@@ -1,6 +1,7 @@
 ## Hi, I'm Max
 
 Solving problems with code is my passion.
+
 [mnewco.dev](https://mnewco.dev)
 
 ### What I'm working on
