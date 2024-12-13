@@ -8,7 +8,7 @@ Solving problems with code is my passion.
 
 Currently, I am trying to cleanup my favorite personal repos. Right now, I'm working on bringing `contactor` to life and hopefully adding a demo to my website [mnewco.dev](https://mnewco.dev) soon!
 
-I'm also testing my skills and trying to templatize a k8s cluster in Hetzner for the basis of all my future project demos :)
+I'm also testing my skills in o7d to create cloud-native k8s platform for the basis of all my future project demos :)
 
 ### Extra details
 
