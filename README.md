@@ -10,6 +10,6 @@ Currently, I am trying to cleanup my favorite personal repos. Right now, I'm wor
 
 I'm also testing my skills in o7d to create cloud-native k8s platform for the basis of all my future project demos :)
 
-### Extra details
+### Commit History
 
 I was a little stupid early in my career and didn't follow the github best practices of one account for personal and work. I transferred as much as I could, but unfortunately a lot of my work commits are on a no-reply email address (making it impossible to associate to my personal account). So, if you have doubts of my work history feel free to reference my work account timeline here [max-denari](https://github.com/max-denari)
